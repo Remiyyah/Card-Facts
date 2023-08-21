@@ -1,0 +1,18 @@
+body {
+    background-color: blanchedalmond;
+  }
+  .outside {
+    width: 380px;padding:5px;border:5px solid gray;border-style: ridge;
+  }
+  .inside {
+    width: 350px;padding:5px;border:3px solid red;border-style: solid; box-shadow: 2px 2px;
+  }
+    img{
+        width:300px;height: 300px;
+    }
+
+    ul{
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
